@@ -1,3 +1,0 @@
-choco install speccy python -y
-@echo offs
-start https://scratch.mit.edu/download
